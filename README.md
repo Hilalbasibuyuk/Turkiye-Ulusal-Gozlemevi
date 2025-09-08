@@ -1,2 +1,3 @@
 # Turkiye-Ulusal-Gozlemevi
-Staj makalelerim
+OSI Modeli(Open System Interconnection)
+
