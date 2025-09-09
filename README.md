@@ -28,11 +28,14 @@ layer uses a transmission medium for transportation.
 Communication at this layer is called host-to-host. 
 #### Transport Layer 
 - It is responsible for servicing the application layer. The logical link in this layer is
-- referred to as end-to-end. The message received from the Application layer is sent to 
+referred to as end-to-end. The message received from the Application layer is sent to 
 the Transport layer and divided into segments. It is logically sent to the Transport layer 
 of the receiving party. The other party transforms the segment into a message and 
 then sends it to its Application layer.
-
+#### Application Layer 
+- Process-to-process communication takes place in this layer. The information produced 
+by one side's Application layer process is transmitted by communicating with the other 
+side's Application layer process. 
 
 
 ## Microservice
