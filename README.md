@@ -1,5 +1,4 @@
 # Turkiye-Ulusal-Gozlemevi
-OSI Modeli(Open System Interconnection)
 
 ### 3 Katmanlı iletişim
 
@@ -37,6 +36,15 @@ then sends it to its Application layer.
 by one side's Application layer process is transmitted by communicating with the other 
 side's Application layer process. 
 
+OSI Modeli (Open System Interconnection)
+OSI is a communication model standard determined by 
+ISO (International Organization for Standardization). ISO is an organization, OSI is a 
+model. 
+
+<img width="462" height="312" alt="image" src="https://github.com/user-attachments/assets/07a32398-99bd-4e98-8fe8-604694c37a04" />
+
+It has a layered architecture. In the TCP/IP model, Session and Presentation layers are 
+integrated with the Application layer.
 
 ## Microservice
 
