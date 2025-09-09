@@ -1,14 +1,14 @@
 # Turkiye-Ulusal-Gozlemevi
 OSI Modeli(Open System Interconnection)
 
-## 3 Katmanlı iletişim
+### 3 Katmanlı iletişim
 
 
 <img width="1085" height="657" alt="image" src="https://github.com/user-attachments/assets/9343d8d1-6fe9-4ede-bdb3-b6474c911cfc" />
 
 
 
-TCP/IP Protocol
+## TCP/IP Protocol
 
 
 <img width="642" height="845" alt="image" src="https://github.com/user-attachments/assets/a4129432-5ce1-46af-9e40-2bff69850696" />
