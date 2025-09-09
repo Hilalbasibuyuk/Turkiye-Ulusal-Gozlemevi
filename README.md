@@ -142,11 +142,11 @@ Postman: REST API'leri test etmek, dokümante etmek ve paylaşmak için kullanı
 <img width="903" height="559" alt="Ekran görüntüsü 2025-09-09 091725" src="https://github.com/user-attachments/assets/b3264511-5c83-485c-b70d-7781d6718542" />
 
 
-Mikroservis Mimarisi Nedir?
+#### Mikroservis Mimarisi Nedir?
 Bir uygulamayı, birbiriyle loosely coupled (gevşek bağlı) ve tek bir sorumluluğu olan küçük, bağımsız servislere bölme yaklaşımıdır. Her mikroservis kendi veritabanına sahip olabilir ve diğer servislerle API'ler (genellikle REST API) üzerinden iletişim kurar.
 
 
-Docker Konteyner Teknolojisi Nedir?
+#### Docker Konteyner Teknolojisi Nedir?
 Konteynerlar, bir uygulamayı ve tüm bağımlılıklarını (kütüphaneler, çalışma ortamı vb.) tek bir pakette (image) toplayarak, herhangi bir ortamda (geliştirici makinesi, test sunucusu, production) tutarlı ve izole bir şekilde çalıştırmayı sağlayan bir teknolojidir.
 
 
