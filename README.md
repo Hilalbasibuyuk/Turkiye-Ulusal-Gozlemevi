@@ -3,7 +3,7 @@
 ### 3 Katmanlı iletişim
 
 
-<img width="1085" height="657" alt="image" src="https://github.com/user-attachments/assets/9343d8d1-6fe9-4ede-bdb3-b6474c911cfc" />
+<img width="684" height="400" alt="image" src="https://github.com/user-attachments/assets/575c38de-0ba4-49fc-bb35-c75793857a05" />
 
 
 
