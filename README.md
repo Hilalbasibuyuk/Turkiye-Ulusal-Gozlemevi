@@ -153,7 +153,7 @@ Konteynerlar, bir uygulamayı ve tüm bağımlılıklarını (kütüphaneler, ç
 
 
 
-Neden Birlikte Mükemmeller?
+#### Neden Birlikte Mükemmeller?
 
 1- Bağımsız Dağıtım: Her bir mikroservis, bir Docker konteyneri olarak paketlenebilir. Ürün Servisi'ni güncellediğinizde sadece onun konteynerini yeniden başlatırsınız, tüm uygulamayı değil.
 
@@ -163,12 +163,13 @@ Neden Birlikte Mükemmeller?
 
 4- Teknoloji Çeşitliliği: Kullanıcı Servisi Python + Django, Sipariş Servisi Java + Spring Boot ile yazılabilir. Docker hepsini aynı sunucuda sorunsuzca çalıştırır.
 
-İlişki: Mikroservisler, birbirleriyle HTTP üzerinden konuşan REST API'ler aracılığıyla iletişim kurar. Bu servisler, Docker konteynerleri olarak paketlenip dağıtılır. Docker, bu iletişimi sağlamak için konteynerler arası sanal ağlar (networking) oluşturur.
+#### İlişki:
+Mikroservisler, birbirleriyle HTTP üzerinden konuşan REST API'ler aracılığıyla iletişim kurar. Bu servisler, Docker konteynerleri olarak paketlenip dağıtılır. Docker, bu iletişimi sağlamak için konteynerler arası sanal ağlar (networking) oluşturur.
 
 
 
 
-Büyük Resim: Hepsinin Birbiriyle İlişkisi
+#### Büyük Resim:
 Bir kullanıcı mobil uygulamanızdan bir ürün aradığında olanları düşünelim:
 
 1- Mobil Uygulama (İstemci), Ürün Servisine bir istek atar: GET https://api.sirket.com/products?search=telefon
@@ -191,7 +192,7 @@ Bir kullanıcı mobil uygulamanızdan bir ürün aradığında olanları düşü
 
 
 
-Sonuç:
+#### Sonuç:
 
 - TCP/IP: Verinin yolda nasıl ilerleyeceğinin otoyol kuralları.
 
