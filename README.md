@@ -68,6 +68,15 @@ model.
 
 <img width="462" height="312" alt="image" src="https://github.com/user-attachments/assets/07a32398-99bd-4e98-8fe8-604694c37a04" />
 
+- TCP/IP'den farklı olarak ek iki katman daha vardır:
+
+#### Sunum (Presentation)
+- Veri şifreleme, sıkıştırma, dönüştürme (SSL/TLS, JPEG)
+
+#### Oturum (Session)
+- İki cihaz arasındaki iletişim oturumunu yönetir (RPC)
+
+
 It has a layered architecture. In the TCP/IP model, Session and Presentation layers are 
 integrated with the Application layer.
 
