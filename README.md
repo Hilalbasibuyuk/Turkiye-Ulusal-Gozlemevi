@@ -10,8 +10,9 @@
 ## TCP/IP Protocol
 
 
-<img width="642" height="845" alt="image" src="https://github.com/user-attachments/assets/a4129432-5ce1-46af-9e40-2bff69850696" />
+<img width="452" height="428" alt="image" src="https://github.com/user-attachments/assets/e8308b2a-4749-414f-a1b3-0f8f81f348d0" />
 
+<img width="1207" height="741" alt="image" src="https://github.com/user-attachments/assets/c153204f-c2dc-4a26-a703-270d33d30183" />
 
 #### 4 Katmanı:
 
