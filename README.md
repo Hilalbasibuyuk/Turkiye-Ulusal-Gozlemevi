@@ -17,6 +17,24 @@ OSI Modeli(Open System Interconnection)
 <img width="1043" height="542" alt="image" src="https://github.com/user-attachments/assets/11c930aa-ee86-4f68-957a-83f68c1b5e3c" />
 
 
+#### Physical Layer 
+- It is responsible for transmitting the bits within the frame along the line. The physical 
+layer, like other layers, can be considered as a logical connection because the physical 
+layer uses a transmission medium for transportation. 
+#### Data-link Layer 
+- It transports datagrams received from the network layer between lines in frame form. 
+#### Network Layer 
+- It is responsible for establishing the connection between Source and Destination hosts.
+Communication at this layer is called host-to-host. 
+#### Transport Layer 
+- It is responsible for servicing the application layer. The logical link in this layer is
+- referred to as end-to-end. The message received from the Application layer is sent to 
+the Transport layer and divided into segments. It is logically sent to the Transport layer 
+of the receiving party. The other party transforms the segment into a message and 
+then sends it to its Application layer.
+
+
+
 ## Microservice
 
 <img width="903" height="559" alt="Ekran görüntüsü 2025-09-09 091725" src="https://github.com/user-attachments/assets/b3264511-5c83-485c-b70d-7781d6718542" />
