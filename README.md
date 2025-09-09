@@ -19,7 +19,9 @@
 #### Physical Layer 
 - It is responsible for transmitting the bits within the frame along the line. The physical 
 layer, like other layers, can be considered as a logical connection because the physical 
-layer uses a transmission medium for transportation. 
+layer uses a transmission medium for transportation. There are two signal types: analog signals, digital signals.
+
+
 #### Data-link Layer 
 - It transports datagrams received from the network layer between lines in frame form. 
 #### Network Layer 
