@@ -1,4 +1,4 @@
-# Turkiye-Ulusal-Gozlemevi
+# Computer Networks
 
 ### 3 Katmanlı iletişim
 
