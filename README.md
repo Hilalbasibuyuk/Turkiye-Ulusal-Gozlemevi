@@ -104,6 +104,9 @@ TCP/IP modeli UDP bağlantıları kullandığı zaman, iletim katmanında güven
 
 
 
+<img width="1199" height="646" alt="image" src="https://github.com/user-attachments/assets/7aab6711-5bfb-4437-9e97-208856e041f7" />
+
+
 ## HTTP
 HTTP (Köprü Metni Aktarım Protokolü), web üzerinden veri aktarımı için kullanılan temel protokoldür. Mesajların nasıl biçimlendirilip iletileceği ve web sunucularının ve tarayıcıların çeşitli komutlara nasıl yanıt vermesi gerektiğiyle ilgili kuralları tanımlar. HTTP, World Wide Web'de veri iletişiminin temelini oluşturur ve kullanıcıların web tarayıcıları aracılığıyla web sayfalarını görüntülemelerine, dosya indirmelerine ve çevrimiçi içerikle etkileşim kurmalarına olanak tanır. Web uygulamaları arasında veri paylaşımını sağlamak için kullanılan API’lar (Application Programming Interface) HTTP protokolünü temel alır. Bu sayede farklı uygulamalar arasında veri alışverişi protokol üzerinden gerçekleşir.
 
