@@ -89,18 +89,18 @@ Birçok kullanıcı için, diğer tüm koşullar eşit olduğunda, OSI modeli te
 Ancak TCP/IP, daha fazla uygulamaya sahip olma avantajına sahiptir ve daha güncel ağ yapılarında da yaygın olarak kullanılmaktadır.
 
 
-TCP/IP ile OSI arasındaki Farklar Nelerdir?
-OSI modelinde yedi katman varken, TCP / IP modelinde dört katman kullanılır.
-TCP/IP haberleşme görevini daha basit alt görevlere böler.Her bir alt görev diğer alt görevler için belirli servislere sunulur. OSI modeli de aynı kavramı kullanır ,ancak OSI modelinde her bir katmandaki protokollerin özellikleri ve birbiri ile ilişkileri kesin bir dille tanımlanmıştır. Bu özellik OSI modeli ile çalışmayı daha verimli kılar. TCP/IP ise böyle bir kısıtlama getirmediğinden, gerektiğinde yeni bir protokol mevcut katmanlar arasına rahatlıkla yerleştirilebilir.
-OSI modelinde gerekmeyen bir katmanın kullanılmaması gibi esnek bir yapıya izin vermez. TCP/IP ise katı kurallarla tanımlı olmadığından gereksinim duyulmayan katmanların kullanılmamasına izin verir.
-Bilgisayar ağlarında TCP / IP hala kullanılıyorken, OSI Katman modeli artık kullanılmamaktadır.
-Üst katmanların işlevselliğini tanımlamak için, OSI üç ayrı katman kullanır (uygulama, sunu ve oturum), TCP / IP ise tek katman (uygulama) kullanır.
-OSI de alt katların işlevselliğini tanımlamak için iki ayrı katman (Fiziksel ve Veri bağlantısı) kullanırken, TCP / IP de bunun için tek bir katman (Bağlantı) kullanır.
-Yönlendirme protokollerini ve standartlarını tanımlamak için, OSI Ağ katmanını kullanırken, TCP / IP İnternet katmanını kullanır.
-TCP / IP modeline kıyasla, OSI modeli iyi belgelenmiştir ve standartları ve protokolleri daha ayrıntılı olarak açıklamaktadır.
-OSI modeline göre katmanların bazıları TCP/ IP modelinde birleştirilerek kolaylık sağlanır.
-TCP/IP haberleşmeyi daha basit hale getirir. OSI modelindeki oturum, sunum ve uygulama katmanına karşılık TCP/IP sadece uygulama katmanını kullanır.
-TCP/IP modeli UDP bağlantıları kullandığı zaman, iletim katmanında güvenililik kontrolü yapmaz. OSI modelinde ise bu güvenlik işlemi daima yapılır.
+#### TCP/IP ile OSI arasındaki Farklar Nelerdir?
+- OSI modelinde yedi katman varken, TCP / IP modelinde dört katman kullanılır.
+- TCP/IP haberleşme görevini daha basit alt görevlere böler.Her bir alt görev diğer alt görevler için belirli servislere sunulur. OSI modeli de aynı kavramı kullanır ,ancak OSI modelinde her bir katmandaki protokollerin özellikleri ve birbiri ile ilişkileri kesin bir dille tanımlanmıştır. Bu özellik OSI modeli ile çalışmayı daha verimli kılar. TCP/IP ise böyle bir kısıtlama getirmediğinden, gerektiğinde yeni bir protokol mevcut katmanlar arasına rahatlıkla yerleştirilebilir.
+- OSI modelinde gerekmeyen bir katmanın kullanılmaması gibi esnek bir yapıya izin vermez. TCP/IP ise katı kurallarla tanımlı olmadığından gereksinim duyulmayan katmanların kullanılmamasına izin verir.
+- Bilgisayar ağlarında TCP / IP hala kullanılıyorken, OSI Katman modeli artık kullanılmamaktadır.
+- Üst katmanların işlevselliğini tanımlamak için, OSI üç ayrı katman kullanır (uygulama, sunu ve oturum), TCP / IP ise tek katman (uygulama) kullanır.
+- OSI de alt katların işlevselliğini tanımlamak için iki ayrı katman (Fiziksel ve Veri bağlantısı) kullanırken, TCP / IP de bunun için tek bir katman (Bağlantı) kullanır.
+- Yönlendirme protokollerini ve standartlarını tanımlamak için, OSI Ağ katmanını kullanırken, TCP / IP İnternet katmanını kullanır.
+- TCP / IP modeline kıyasla, OSI modeli iyi belgelenmiştir ve standartları ve protokolleri daha ayrıntılı olarak açıklamaktadır.
+- OSI modeline göre katmanların bazıları TCP/ IP modelinde birleştirilerek kolaylık sağlanır.
+- TCP/IP haberleşmeyi daha basit hale getirir. OSI modelindeki oturum, sunum ve uygulama katmanına karşılık TCP/IP sadece uygulama katmanını kullanır.
+- TCP/IP modeli UDP bağlantıları kullandığı zaman, iletim katmanında güvenililik kontrolü yapmaz. OSI modelinde ise bu güvenlik işlemi daima yapılır.
 
 
 
