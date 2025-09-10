@@ -70,14 +70,14 @@ model.
 - Oturum katmanı, uygulamalar arasında gerçekleşen oturumları yöneten bir bağlantıya sahiptir. Oturum katmanı, cihazlar arasındaki bağlantıları kontrol eder. Yereldeki ve uzaktaki bağlantıları kurabilir, yönetebilir veya sonlandırabilir. Ağ üzerinde bir bilgisayara bağlanarak oturum açmak gibi işlemlerin yapıldığı bu katman da çift yönlü haberleşme yapılır.(RPC, NFS, X WİNDOWS SYSTEM)
 
 
-Avantajları
-	Bağlantı odaklı servislerin yanı sıra bağlantısız servisler de desteklenmektedir.
-	Oldukça esnektir.
-	Tüm katmanlar bağımsız olarak çalışır.
-Dezavantajları
-	Bir model kurmak zorlu bir iştir.
-	Bazen yeni bir protokolü bu modele uydurmak zor olabiliyor.
-	Sadece referans model olarak kullanılmaktadır.
+#### Avantajları
+- Bağlantı odaklı servislerin yanı sıra bağlantısız servisler de desteklenmektedir.
+- Oldukça esnektir.
+- Tüm katmanlar bağımsız olarak çalışır.
+#### Dezavantajları
+- Bir model kurmak zorlu bir iştir.
+- Bazen yeni bir protokolü bu modele uydurmak zor olabiliyor.
+- Sadece referans model olarak kullanılmaktadır.
 
 
 
