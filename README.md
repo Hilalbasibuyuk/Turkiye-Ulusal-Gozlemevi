@@ -98,7 +98,6 @@ Ancak TCP/IP, daha fazla uygulamaya sahip olma avantajına sahiptir ve daha gün
 - OSI de alt katların işlevselliğini tanımlamak için iki ayrı katman (Fiziksel ve Veri bağlantısı) kullanırken, TCP / IP de bunun için tek bir katman (Bağlantı) kullanır.
 - TCP / IP modeline kıyasla, OSI modeli iyi belgelenmiştir ve standartları ve protokolleri daha ayrıntılı olarak açıklamaktadır.
 - OSI modeline göre katmanların bazıları TCP/ IP modelinde birleştirilerek kolaylık sağlanır.
-- TCP/IP haberleşmeyi daha basit hale getirir. OSI modelindeki oturum, sunum ve uygulama katmanına karşılık TCP/IP sadece uygulama katmanını kullanır.
 - TCP/IP modeli UDP bağlantıları kullandığı zaman, iletim katmanında güvenililik kontrolü yapmaz. OSI modelinde ise bu güvenlik işlemi daima yapılır.
 
 
