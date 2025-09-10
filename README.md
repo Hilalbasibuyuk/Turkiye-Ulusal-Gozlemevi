@@ -29,21 +29,21 @@ IP (Internet Protocol), internet üzerinden veri alışverişi yapılırken ger�
 - Fiziksel Katman(Physical Layer): Çerçeve içindeki bitleri hat boyunca iletmekten sorumludur. Diğer katmanlar gibi fiziksel katman da mantıksal bir bağlantı olarak değerlendirilebilir çünkü fiziksel katman, taşıma için bir iletim ortamı kullanır. Bu katmanda veriler, bir bilgisayara veya başka bir cihaza gönderilip okunabilecek bir şeye dönüştürülür. Örneğin, IEEE 802.3 protokolü, verileri Ethernet bağlantısında kullanılan verilere dönüştürmek için kullanılır. (Hub, Repeater, IEEE 1394, DSL, ISDN )
 
 
-Avantajları
-	Birçok Yönlendirme protokolü desteklenmektedir.
-	Son derece ölçeklenebilirdir ve istemci-sunucu mimarisini kullanır.
-	Hafiftir.
-Dezavantajları
-	Kurulumu biraz zor.
-	Paketlerin teslimi taşıma katmanı tarafından garanti edilmez.
-	Senkronizasyon saldırısına karşı savunmasız.
+#### Avantajları
+- Birçok Yönlendirme protokolü desteklenmektedir.
+- Son derece ölçeklenebilirdir ve istemci-sunucu mimarisini kullanır.
+- Hafiftir.
+#### Dezavantajları
+- Kurulumu biraz zor.
+- Paketlerin teslimi taşıma katmanı tarafından garanti edilmez.
+- Senkronizasyon saldırısına karşı savunmasız.
 
 
 
 
 
 
-- TCP/IP, "mektubun zarfı, adresi ve posta servisidir." İçeriği umursamaz, sadece doğru yere ulaştırmakla ilgilenir.
+##### TCP/IP, "mektubun zarfı, adresi ve posta servisidir." İçeriği umursamaz, sadece doğru yere ulaştırmakla ilgilenir.
 
 
 
