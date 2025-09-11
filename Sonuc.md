@@ -1,51 +1,36 @@
 
+# Büyük Resim: İstekten Yanıta Yolculuk
 
-
-
-
-
-
-
-
-
-
-
-
-#### Büyük Resim:
 Bir kullanıcı mobil uygulamanızdan bir ürün aradığında olanları düşünelim:
 
-1- Mobil Uygulama (İstemci), Ürün Servisine bir istek atar: GET https://api.sirket.com/products?search=telefon
+1. **Mobil Uygulama (İstemci)**, Ürün Servisine bir istek atar:  
+   `GET https://api.sirket.com/products?search=telefon`
 
-2- Bu istek, HTTP protokolü kurallarına göre paketlenir.
+2. Bu istek, **HTTP protokolü** kurallarına göre paketlenir.  
 
-3- HTTP paketi, TCP/IP yığınından geçer.
+3. HTTP paketi, **TCP/IP yığını** üzerinden iletilir.  
 
-4- TCP katmanında güvenilir bir bağlantı kurulur ve veri segmentlere ayrılır.
+4. **TCP katmanında** güvenilir bağlantı kurulur, veri segmentlere ayrılır.  
 
-5- IP katmanında bu segmentlere hedef ve kaynak IP adresleri eklenir ve yönlendirilir.
+5. **IP katmanında** segmentlere hedef ve kaynak IP adresleri eklenir ve yönlendirilir.  
 
-6- İstek, Ürün Servisi'nin çalıştığı Docker Konteynerine ulaşır.
+6. İstek, **Ürün Servisi’nin çalıştığı Docker konteynerine** ulaşır.  
 
-7- Konteyner içindeki uygulama, bu REST API isteğini işler, veritabanından "telefon" ürünlerini arar.
+7. Konteyner içindeki uygulama, bu **REST API isteğini işler** ve veritabanından `"telefon"` ürünlerini arar.  
 
-8- Sonuçlar yine HTTP Response olarak, TCP/IP üzerinden mobil uygulamaya geri döner.
+8. Sonuçlar yine **HTTP Response** olarak, TCP/IP üzerinden mobil uygulamaya geri döner.  
 
-9- Tüm bu süreç, OSI Modeli kullanılarak her katmanda debug edilebilir veya analiz edilebilir.
+9. Tüm bu süreç, **OSI Modeli** kullanılarak her katmanda debug edilebilir veya analiz edilebilir.  
 
+---
 
+## Sonuç: Benzetmelerle Özet
 
-#### Sonuç:
-
-- TCP/IP: Verinin yolda nasıl ilerleyeceğinin otoyol kuralları.
-
-- HTTP: Otoyolda giden kurye aracının içindeki mektubun yazım formatı.
-
-- REST API: Kuryenin getirdiği mektupta yazan standartlaştırılmış iş emri.
-
-- Mikroservisler: Bu iş emirlerine göre çalışan, şehrin farklı yerlerindeki uzmanlaşmış ekipler.
-
-- Docker: Her ekibin kendi bağımsız, taşınabilir ofis konteyneri.
-
+- **TCP/IP:** Verinin yolda nasıl ilerleyeceğinin **otoyol kuralları**.  
+- **HTTP:** Otoyolda giden kuryenin içindeki **mektubun yazım formatı**.  
+- **REST API:** Kuryenin getirdiği mektupta yazan **standartlaştırılmış iş emri**.  
+- **Mikroservisler:** Bu iş emirlerine göre çalışan, şehrin farklı yerlerindeki **uzman ekipler**.  
+- **Docker:** Her ekibin kendi **bağımsız, taşınabilir ofis konteyneri**.  
 
 
 
