@@ -16,7 +16,7 @@ IP (Internet Protocol), internet üzerinden veri alışverişi yapılırken ger�
 
 <img width="1207" height="741" alt="image" src="https://github.com/user-attachments/assets/c153204f-c2dc-4a26-a703-270d33d30183" />
 
-#### 4 Katmanı:
+#### 5 Katmanı:
 
 - Uygulama Katmanı (Application Layer): Süreçler arası iletişim bu katmanda gerçekleşir. Bir tarafın Uygulama katmanı süreci tarafından üretilen bilgi, diğer tarafın Uygulama katmanı süreciyle iletişim kurularak iletilir. Kullanıcıya en yakın katmandır. HTTP, FTP, SMTP, DNS gibi protokoller burada çalışır. Veri bu katmanda oluşturulur. (HTTP, SMTP, FTP,SSH, Telnet)
 
