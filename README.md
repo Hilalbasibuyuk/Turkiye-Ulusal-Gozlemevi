@@ -105,6 +105,12 @@ Ancak TCP/IP, daha fazla uygulamaya sahip olma avantajına sahiptir ve daha gün
 <img width="1199" height="646" alt="image" src="https://github.com/user-attachments/assets/7aab6711-5bfb-4437-9e97-208856e041f7" />
 
 
+### CİSCO Packet Tracer
+
+Cisco Packet Tracer, ağ topolojileri oluşturmayı ve modern bilgisayar ağlarını taklit etmeyi öğretmek ve öğrenmek için kapsamlı bir ağ simülasyon yazılım aracıdır. Araç, gerçekçi simülasyon ve görselleştirme deneyimleri, değerlendirme ve etkinlik oluşturma yetenekleri ve çok kullanıcılı iş birliği ve yarışma fırsatlarının benzersiz bir kombinasyonunu sunar. Yenilikçi özellikleri, öğrencilerin ve öğretmenlerin ilgi çekici ve dinamik bir sosyal ortamda iş birliği yapmalarına, sorunları çözmelerine ve ağ kavramlarını öğrenmelerine yardımcı olur.
+
+
+
 ## HTTP
 HTTP (Köprü Metni Aktarım Protokolü), web üzerinden veri aktarımı için kullanılan temel protokoldür. Mesajların nasıl biçimlendirilip iletileceği ve web sunucularının ve tarayıcıların çeşitli komutlara nasıl yanıt vermesi gerektiğiyle ilgili kuralları tanımlar. HTTP, World Wide Web'de veri iletişiminin temelini oluşturur ve kullanıcıların web tarayıcıları aracılığıyla web sayfalarını görüntülemelerine, dosya indirmelerine ve çevrimiçi içerikle etkileşim kurmalarına olanak tanır. Web uygulamaları arasında veri paylaşımını sağlamak için kullanılan API’lar (Application Programming Interface) HTTP protokolünü temel alır. Bu sayede farklı uygulamalar arasında veri alışverişi protokol üzerinden gerçekleşir.
 
